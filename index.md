@@ -1,9 +1,10 @@
 <!DOCTYPE html>
+
 <html lang="pt-br">
 
 <head>
 
-<title>Título da página</title>
+<title>Fanpage de Gatinhos</title>
 
 <meta charset="utf-8">
 
@@ -11,9 +12,9 @@
 
 <body>
 
-<h1>Aqui vai um título</h1>
-<p> Este é um exercício proposto pela womakerscode para treinar comandos do Git e Github</p>
+<h1>Perfil #catsoninstagram</h1>
+<img src="images/nome_da_sua_imagem.jpg" />
 
 </body>
 
-</html>
+</html
